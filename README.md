@@ -318,4 +318,4 @@ https://youtu.be/525Ol_wMUw0
 
 6.	Bibliografía
 
-Robbins, A. & Miller, W. (2007). Análisis de circuitos: teoría y práctica (4ta ed). México D.F., México: Cengage Learning.
+Floyd, T. L. (2007). Principios de Circuitos Electricos. Mexico: Pearson Education 
