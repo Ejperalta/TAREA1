@@ -242,6 +242,7 @@ Sección 2 – 5 Resistores
 28.	El contacto ajustable de un potenciómetro lineal se coloca en el centro mecánico de su ajuste. Si la resistencia total es de 1000Ω , 
 ¿cuál es la resistencia entre cada terminal y el contacto ajustable?
 
+la resistencia que contiene cada una de las terminales es de 500 homs cuando se coloca en el centro mecanico y al momento de ser un potenciometro lineal se cumple el postulado de que produce la mitad de la resistencia
 
 30) Determine la resistencia y la tolerancia de cada resistor rotulado como sigue:
 
@@ -308,7 +309,7 @@ La resolución para un multímetro de 4^1/2 dígitos solo se mostrará hasta 19.
 
 4. Video
 
-
+https://youtu.be/525Ol_wMUw0
 
 5.	Conclusiones 
 •	Al realizar el informe se puede observar que la electrónica se debe tener respeto al momento de manipular circuitos, o cables eléctricos ya que si no se toma las respectivas precauciones se puede tener accidentes en laboratorios y en la vida laboral
