@@ -241,7 +241,7 @@ Sección 2 – 5 Resistores
 ¿cuál es la resistencia entre cada terminal y el contacto ajustable?
 
 
-30.	Determine la resistencia y la tolerancia de cada resistor rotulado como sigue:
+30. Determine la resistencia y la tolerancia de cada resistor rotulado como sigue:
 (a) 4R7J (b) 5602M (c) 1501F
 
 a) 4.7Ω ±5%
